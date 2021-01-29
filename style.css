@@ -3,7 +3,8 @@
     --preta: #141414;
 }
 * {
-    margin: 0;
+    width: auto;
+    margin;0;
     padding: 0;
     box-sizing: border-box;
 }
@@ -48,9 +49,12 @@ header nav a:hover {
 .filme-principal {
     font-size: 16px;
     height: 400px;
-    background-image: url('/img/fundo.jpg');
+    background: linear-gradient(0,0,0,.50), url('img/fundo.jpg');
     background-size: cover;
+
 }
+
+
 
 
     
